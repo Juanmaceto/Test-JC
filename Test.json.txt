@@ -1,1 +1,3 @@
 This is called a json but is just text
+and now there is a new line. Yaay!
+You should stop this! Maybe
